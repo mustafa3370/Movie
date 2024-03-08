@@ -24,6 +24,7 @@ function Home() {
 
   return (
     <>
+    <h2 className={HomeCss.font}>This is Trending Movie</h2>
       {/*UiDEsign*/}
       <div className="container">
         <div className="row">
