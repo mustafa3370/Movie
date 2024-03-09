@@ -15,7 +15,7 @@ function Navbar() {
           <Link className="nav-link active" aria-current="page" to="/home">Home</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link"to="/TV">TV</Link>
+          <Link className="nav-link"to="/Series">Series</Link>
         </li>
       </ul>
       

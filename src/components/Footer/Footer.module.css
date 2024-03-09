@@ -1,0 +1,21 @@
+footer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 2px;
+  padding-top: 50px;
+  }
+  
+  footer .copy {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #788190;
+    line-height: 17px;
+    font-weight: 400;
+  }
+
+@media (max-width: 576px) {
+    footer{
+        padding-top: 50px;
+        margin-bottom: 44px;
+    }
+}
